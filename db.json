@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "email": "typicode",
+      "phone": "4449999222"
+    },
+    {
+      "name": "bilal",
+      "email": "asdfghjkl",
+      "phone": "12345678",
+      "id": 2
+    },
+    {
+      "name": "nabeel",
+      "email": "nasjncowneovnwn",
+      "phone": "98765432",
+      "id": 3
+    },
+    {
+      "name": "Riz (edit)",
+      "email": "riz12345@GMAIL",
+      "phone": "499897623",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
