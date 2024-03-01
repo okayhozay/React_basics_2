@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project focuses on concepts involving entering data into a table, using buttons, sorting etc.
 
 ## Available Scripts
 
